@@ -1,0 +1,4 @@
+node_modules/
+files/credentials.json
+files/produtosFeitos.txt
+files/*.xls

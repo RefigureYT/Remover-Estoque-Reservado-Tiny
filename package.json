@@ -16,5 +16,12 @@
     "url": "https://github.com/RefigureYT/Remover-Estoque-Reservado-Tiny/issues"
   },
   "homepage": "https://github.com/RefigureYT/Remover-Estoque-Reservado-Tiny#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "pg": "^8.16.0",
+    "puppeteer": "^24.10.0",
+    "undici": "^6.21.3",
+    "xlsx": "^0.18.5"
+  }
 }
