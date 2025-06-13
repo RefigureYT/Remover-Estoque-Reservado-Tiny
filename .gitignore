@@ -2,3 +2,4 @@ node_modules/
 files/credentials.json
 files/produtosFeitos.txt
 files/*.xls
+files/logs_req.txt
